@@ -1,11 +1,11 @@
 # PDCL-Sales-Analysis-Dashboard
+
+## 🔍 Overview
 Optiveriance is planning to be merged with PDCL Ltd. Brown who is the CEO of PDCL is looking forward to a smooth transition and so after multiple rounds of discussion. They 
 have decided to do audit of the business Infrastructure of Optiveriance. 
 This repository contains a Power BI-based analysis report of a company acquisition, detailing key metrics across sales, profit, customer segmentation, and geographic distribution. The report gives a holistic view of company performance before and after the acquisition, providing insights to stakeholders for strategic decision-making.
 
 ---
-
-## 🔍 Overview
 
 The analysis leverages historical business data to explore trends in:
 
