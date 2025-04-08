@@ -89,4 +89,4 @@ Sales are distributed across three channels:
 - Excel/CSV data sources
 
 ## Dashboard :
-<img src="images/Dashboard -1.png" width="2500" height="600"/>&nbsp;
+<img src="Images/Dashborad -1.png" width="2500" height="600"/>&nbsp;
